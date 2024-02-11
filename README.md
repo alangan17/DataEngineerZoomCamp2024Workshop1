@@ -15,17 +15,17 @@ Ref: https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohort
 mindmap
     root((Workshop 1: dlt))
         Extracting Data
-            hardware limit: avoid out of memory
+            🧠hardware limit: avoid out of memory
                 split into batches
-            network limit
-            api call limit
+            🌐⏳network limit
+            📞🚫api call limit
         Normalising Data
-            schema enforcement
-            flatten nested dict. structure
-            unnest list into child tables
+            🚦schema enforcement
+            📚➡️📄flatten nested dict. structure
+            🐦🏠➡️🐣unnest list into child tables
         Incremental Loading
-            Append
-            merge: based on primary key
+            ➕📈Append
+            🔑🔗merge: based on primary key
         Tools
             dlt
             duckdb
