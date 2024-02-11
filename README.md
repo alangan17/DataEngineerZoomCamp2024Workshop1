@@ -1,5 +1,7 @@
 # DataEngineerZoomCamp2024Workshop1
 
+Course Website: https://dezoomcamp.streamlit.app/Workshop%201%20Data%20Ingestion
+
 ## Data Ingestion with dlt
 
 Workshop Recording: https://www.youtube.com/watch?v=oLXhBM7nf2Q
