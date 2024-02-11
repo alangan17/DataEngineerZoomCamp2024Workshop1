@@ -8,7 +8,7 @@ Ref: https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohort
 
 ## Homework
 
-The [linked colab notebook](https://colab.research.google.com/drive/1Te-AT0lfh0GpChg1Rbd0ByEKOHYtWXfm#scrollTo=wLF4iXf-NR7t&forceEdit=true&sandboxMode=true) offers a few exercises to practice what you learned today.
+[Colab notebook template for the homework](https://colab.research.google.com/drive/1Te-AT0lfh0GpChg1Rbd0ByEKOHYtWXfm#scrollTo=wLF4iXf-NR7t&forceEdit=true&sandboxMode=true)
 
 [Colab Notebook with solution](https://colab.research.google.com/drive/1KtSf3BdyBayXyCuMi5YKZgi7ZBUVj6tZ?usp=sharing)
 
