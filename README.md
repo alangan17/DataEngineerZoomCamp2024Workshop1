@@ -10,7 +10,9 @@ Ref: https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohort
 
 The [linked colab notebook](https://colab.research.google.com/drive/1Te-AT0lfh0GpChg1Rbd0ByEKOHYtWXfm#scrollTo=wLF4iXf-NR7t&forceEdit=true&sandboxMode=true) offers a few exercises to practice what you learned today.
 
-[Notebook with solution](https://colab.research.google.com/drive/1KtSf3BdyBayXyCuMi5YKZgi7ZBUVj6tZ?usp=sharing)
+[Colab Notebook with solution](https://colab.research.google.com/drive/1KtSf3BdyBayXyCuMi5YKZgi7ZBUVj6tZ?usp=sharing)
+
+[Jupyter Notebook exported from Colab](/DEZoomcamp2024_Workshop1_Homework_data_talks_club_data_extraction_and_ingestion.ipynb)
 
 ### Question 1: What is the sum of the outputs of the generator for limit = 5?
 - **A**: 10.23433234744176
