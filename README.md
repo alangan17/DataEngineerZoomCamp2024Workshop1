@@ -8,6 +8,31 @@ Workshop Recording: https://www.youtube.com/watch?v=oLXhBM7nf2Q
 
 Ref: https://github.com/DataTalksClub/data-engineering-zoomcamp/blob/main/cohorts/2024/workshops/dlt.md
 
+## Lesson learned
+
+
+```mermaid
+mindmap
+    root((Workshop 1: dlt))
+        Extracting Data
+            hardware limit: avoid out of memory
+                split into batches
+            network limit
+            api call limit
+        Normalising Data
+            schema enforcement
+            flatten nested dict. structure
+            unnest list into child tables
+        Incremental Loading
+            Append
+            merge: based on primary key
+        Tools
+            dlt
+            duckdb
+            bigquery
+            Google Colab Notebook
+```
+
 ## Homework
 
 [Colab notebook template for the homework](https://colab.research.google.com/drive/1Te-AT0lfh0GpChg1Rbd0ByEKOHYtWXfm#scrollTo=wLF4iXf-NR7t&forceEdit=true&sandboxMode=true)
